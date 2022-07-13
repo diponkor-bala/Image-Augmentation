@@ -1,2 +1,2 @@
 # Image_-Augmentation
-Python code for generating augmented of all images in a folder
+Python code for generating augmented new image of all images in a folder
